@@ -13,7 +13,7 @@ Three tier AWS infra with Terraform
 
 ```
 terraform init
-terrraform validate
+terraform validate
 terraform plan
 terraform apply
 ```
